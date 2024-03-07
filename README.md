@@ -9,6 +9,8 @@ To run this dashboard, make sure you have the following dependencies installed:
 - matplotlib
 - seaborn
 - streamlit
+- scikit-learn
+
 You can install these dependencies using the following command:
 
 ### Copy code
